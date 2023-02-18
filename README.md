@@ -7,3 +7,6 @@ I have also made the silk screen for the PCB as the original one from the magazi
 Some of the schematic has been also recreated.
 
 No jumpers are required but are still on the silk screen.
+
+Image of PCB
+![20230208_130726](https://user-images.githubusercontent.com/114579521/217395667-7c397e6f-3b78-4219-9f99-cb1118075905.jpg)
